@@ -8,7 +8,7 @@ Api ultilizada: http://dummy.restapiexample.com/
 ````
 bundle install
 
-Cucumber 
+Cucumber -f pretty -f html -o report.html 
 ou
 Por exemplo 
 
@@ -17,4 +17,4 @@ Cucumber --tag @alterar_empregado
 
 ## Qualquer dúvida 
 
-Linkdin: linkedin.com/in/natali-cabral
+Linkdin: https://www.linkedin.com/in/natali-cabral
